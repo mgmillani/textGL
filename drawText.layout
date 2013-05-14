@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="debug" />
+	<File name="include/definitions.h" open="0" top="0" tabpos="4">
+		<Cursor position="181" topLine="0" />
+	</File>
+	<File name="include/file.h" open="0" top="0" tabpos="0">
+		<Cursor position="182" topLine="0" />
+	</File>
+	<File name="include/surfaceOperations.h" open="0" top="0" tabpos="4">
+		<Cursor position="343" topLine="0" />
+	</File>
+	<File name="include/textBase.h" open="0" top="0" tabpos="2">
+		<Cursor position="1210" topLine="13" />
+	</File>
+	<File name="include/textDrawer.h" open="0" top="0" tabpos="0">
+		<Cursor position="235" topLine="0" />
+	</File>
+	<File name="include/textLoader.h" open="0" top="0" tabpos="3">
+		<Cursor position="128" topLine="0" />
+	</File>
+	<File name="include/textOrganizer.h" open="1" top="0" tabpos="4">
+		<Cursor position="509" topLine="0" />
+	</File>
+	<File name="src/file.c" open="0" top="0" tabpos="0">
+		<Cursor position="395" topLine="0" />
+	</File>
+	<File name="src/surfaceOperations.c" open="0" top="0" tabpos="3">
+		<Cursor position="1791" topLine="66" />
+	</File>
+	<File name="src/textDrawer.c" open="1" top="0" tabpos="2">
+		<Cursor position="1216" topLine="27" />
+	</File>
+	<File name="src/textLoader.c" open="0" top="0" tabpos="3">
+		<Cursor position="1204" topLine="18" />
+	</File>
+	<File name="src/textOrganizer.c" open="1" top="0" tabpos="1">
+		<Cursor position="849" topLine="12" />
+	</File>
+</CodeBlocks_layout_file>
